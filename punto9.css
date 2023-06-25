@@ -1,0 +1,59 @@
+body {
+    background-color: beige;
+}
+
+h1,
+h2 {
+    color: crimson;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+table,
+th,
+td {
+    border: 1.5px dotted black;
+    border-collapse: collapse;
+    background-color: yellow;
+    font-size: 13px;
+    font: optional;
+    padding: 3px;
+    width: 50%;
+    margin: 0px auto;
+
+}
+
+#n1 {
+    font-size: 18px;
+    font-weight: bolder;
+    font-style: italic;
+}
+
+#n2 {
+    font-size: 18px;
+    font-weight: bolder;
+    font-style: italic;
+}
+
+th {
+    font-style: italic;
+    border-style: none;
+    color: red;
+
+}
+
+#t1 td {
+    border: 1.5px dotted black;
+    border-collapse: collapse;
+    font-size: 15px;
+}
+
+#t2 {
+    border: 1.5px dashed red;
+    border-top: 1.5px dotted black;
+    border-right: 1.5px dotted black;
+    border-left: 1.5px dotted black;
+    font-size: 13px;
+    font: optional;
+}

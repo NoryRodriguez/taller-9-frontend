@@ -1,0 +1,46 @@
+body {
+    background-image: url(captura.PNG);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    text-align: left;
+    margin-top: 35px;
+    line-height: 80px;
+}
+
+h1 {
+    color: crimson;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 60px;
+    text-align: center;
+    line-height: 80px;
+    margin-top: 35px;
+}
+
+#ws {
+    color: black;
+    font-weight: bold;
+    font-size: 30px;
+    text-decoration: none;
+    text-align: right;
+    margin-top: 35px;
+}
+
+#cbhtml {
+    Color: yellow;
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 30px;
+    text-align: right;
+    margin-top: 35px;
+}
+
+#adidas {
+    color: purple;
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 30px;
+    text-align: right;
+    margin-top: 35px;
+}
